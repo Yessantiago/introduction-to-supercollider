@@ -7,7 +7,11 @@ Este repositorio contiene mis primeras exploraciones en SuperCollider.
 ---
 
 ## 🌍 Available Languages / Idiomas disponibles
-
-[![Español](https://img.shields.io/badge/lang-Español-red.svg)](README.es-419.md)
-
-[![English](https://img.shields.io/badge/lang-English-blue.svg)](README.en.md)
+<div align="center" style="margin-top: 20px; margin-bottom: 15px;">
+  <a href="README.es-419.md">
+    <img src="https://img.shields.io/badge/🌍%20Leer%20en%20Español-red?style=for-the-badge">
+  </a>
+  <a href="README.en.md" style="margin-left: 20px;">
+    <img src="https://img.shields.io/badge/🌎%20Read%20in%20English-blue?style=for-the-badge">
+  </a>
+</div>
