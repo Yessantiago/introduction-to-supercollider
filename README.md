@@ -6,7 +6,7 @@
   </a>
 </p>
 
-Este repositorio contiene algunas sesiones del taller **Introducción a SuperCollider**, impartido por **Rafael Quezada.** Estas sesiones están organizadas en la carpeta [`sc-sessions`](Yessantiago/introduction-to-supercollider/sc-sessions).
+Este repositorio contiene algunas sesiones del taller **Introducción a SuperCollider**, impartido por **Rafael Quezada.** Estas sesiones están organizadas en la carpeta [`sc-sessions`](https://github.com/Yessantiago/introduction-to-supercollider/tree/preview/sc-sessions). 
 
 Además, incluyo información complementaria que puede ser útil para el aprendizaje de SuperCollider, como ejemplos de código, enlaces de referencia y recursos personales.
 
